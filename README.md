@@ -53,9 +53,9 @@ See the section above and video for an explanation of how the application works.
 
 If you would like to contribute, please fork the project and use a feature branch. Pull requests are warmly welcome.
 
-### Links
+### Contract deployed on baobab testnet
+https://baobab.klaytnfinder.io/account/0x930c594144d4b20471fce94b2ba69336492fd4e3
 
-Related Projects:
 
 ### Licensing
 
