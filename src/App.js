@@ -32,7 +32,7 @@ const injectedConnector = new InjectedConnector({
 
 //Below input klaytn baobab roadContract address
 
-const roadContractAddress = "";
+const roadContractAddress = "0x930C594144D4b20471FCe94b2ba69336492Fd4e3";
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_ACCESS_TOKEN;
 const client = MapboxClient({ accessToken: mapboxgl.accessToken });
 const geoClient = MapboxGeocoding({ accessToken: mapboxgl.accessToken });
